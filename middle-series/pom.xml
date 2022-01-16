@@ -17,6 +17,7 @@
 
     <modules>
         <module>poc-log4j2</module>
+        <module>netty-demo</module>
     </modules>
 
 
